@@ -12,14 +12,13 @@ mode: dark # default theme "dark" | "light"
 author:
   name: BigCrazyDog # author name
   bio: >- # tell to the world
-   见啥咬啥   <br> 
-   不见啥不咬啥 
-   见啥不咬啥 
+   见啥咬啥<br>
+   不见啥不咬啥<br>
+   见啥不咬啥<br>
    不见啥咬啥
     
 
   location: Shanghai, China # location
-    
   username: username # general username
   github: bigcrazydog # github username
   twitter: bigcrazydog # twitter username
