@@ -12,8 +12,11 @@ mode: dark # default theme "dark" | "light"
 author:
   name: BigCrazyDog # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
+    大哥你玩摇滚你玩他有啥用啊？
     meet bigcrazydog at <a href="https://github.com/bigcrazydog/bigcrazydog.github.io" target="_blank" rel="noopener">@github</a>.
+
+  location: Shanghai, China # location
+    
   username: username # general username
   github: BigCrazyDog # github username
   twitter: BigCrazyDog # twitter username
