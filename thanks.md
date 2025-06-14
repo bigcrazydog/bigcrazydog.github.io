@@ -7,13 +7,13 @@ comments: false
 ---
 
 
-**<div style="text-align: center;">缘 分 呐 ！</div>**
+**缘 分 呐 ！**
 
 
 <hr>
 
 
-**<div style="text-align: center;">谢 谢 啊 ！</div>**
+**谢 谢 啊 ！**
 
 
 
