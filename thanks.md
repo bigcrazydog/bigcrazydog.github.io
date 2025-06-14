@@ -6,8 +6,10 @@ excerpt: Thanks to everyone who supported me.e
 comments: false
 ---
 
-缘分呐！
+<div style="text-align: center;">缘分呐！</div>
 
 <hr>
 
-谢谢啊!
+<div style="text-align: center;">谢谢啊!</div>
+
+
