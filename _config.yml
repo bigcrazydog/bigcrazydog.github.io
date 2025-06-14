@@ -12,8 +12,11 @@ mode: dark # default theme "dark" | "light"
 author:
   name: BigCrazyDog # author name
   bio: >- # tell to the world
-    大哥你玩摇滚你玩他有啥用啊？
-    meet bigcrazydog at <a href="https://github.com/bigcrazydog/bigcrazydog.github.io" target="_blank" rel="noopener">@github</a>.
+   见啥咬啥 
+   不见啥不咬啥 
+   见啥不咬啥 
+   不见啥咬啥
+    
 
   location: Shanghai, China # location
     
