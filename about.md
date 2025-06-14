@@ -7,7 +7,7 @@ comments: true
 ---
 
 
-**<div style="text-align: center;">大哥你玩摇滚，你玩他有啥用啊？？？</div>**
+**大哥你玩摇滚，你玩他有啥用啊？？？**
 
 
 
