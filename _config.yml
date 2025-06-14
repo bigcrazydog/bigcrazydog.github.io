@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: BigCrazyDog # author name
   bio: >- # tell to the world
-   见啥咬啥 
+   见啥咬啥   <br> 
    不见啥不咬啥 
    见啥不咬啥 
    不见啥咬啥
@@ -21,8 +21,8 @@ author:
   location: Shanghai, China # location
     
   username: username # general username
-  github: BigCrazyDog # github username
-  twitter: BigCrazyDog # twitter username
+  github: bigcrazydog # github username
+  twitter: bigcrazydog # twitter username
   facebook: bigcrazydog # facebook username
   email: bigcrazydog@gmail.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
