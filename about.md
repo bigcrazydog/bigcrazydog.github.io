@@ -1,7 +1,7 @@
 ---
 title: 不着调的大疯狗
 permalink: /about/
-layout: page
+layout: post
 excerpt: 
 comments: true
 ---
