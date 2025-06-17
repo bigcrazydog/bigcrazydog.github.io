@@ -26,4 +26,4 @@ usemathjax: true
   
 <hr>
 
-**————鬼其实只是枯萎的花。**
+<p align="center"><strong>鬼其实只是枯萎的花。</strong>**</p>
