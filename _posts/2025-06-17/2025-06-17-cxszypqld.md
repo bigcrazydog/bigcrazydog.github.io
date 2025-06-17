@@ -3,6 +3,7 @@ layout: post
 title:  "程序是怎样跑起来的"
 date:   2025-06-17 15:45:00 +0800
 categories: 读书
+comments: true
 usemathjax: true
 ---
 
