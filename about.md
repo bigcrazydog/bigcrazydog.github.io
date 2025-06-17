@@ -16,7 +16,7 @@ comments: true
   const gitalk = new Gitalk({
     clientID: 'Ov23livvaVpP0wqyPP3F',
     clientSecret: '19247d72a81ec83ac1606b6a48fda91328a458b6',
-    repo: 'bigcrazydog',       // 存储评论的仓库
+    repo: 'bigcrazydog/bigcrazydog',       // 存储评论的仓库
     owner: 'bigcrazydog',
     admin: ['bigcrazydog'],
     id: window.location.pathname,  // 使用文章路径作为唯一标识
