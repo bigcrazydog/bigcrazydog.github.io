@@ -12,7 +12,7 @@ comments: true
 <!-- Valine 评论区 -->
 <div id="vcomments"></div>
 <script src="//code.bdstatic.com/npm/leancloud-storage@4.12.0/dist/av-min.js"></script>
-<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+<script src='https://unpkg.com/valine@1.5.1/dist/Valine.min.js'></script>
 <script>
   new Valine({
     el: '#vcomments',
